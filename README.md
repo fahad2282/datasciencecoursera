@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Toolkit Project Repository
+Data Science Project Repository
